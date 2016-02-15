@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "vue-bootstrap-pagination",
+      "/Users/user/Desktop/laravel/cardsApp"
+    ]
+  ],
+  "_from": "vue-bootstrap-pagination@*",
+  "_id": "vue-bootstrap-pagination@1.0.1",
+  "_inCache": true,
+  "_location": "/vue-bootstrap-pagination",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "email": "pogacar.jernej@gmail.com",
+    "name": "pogachar"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "vue-bootstrap-pagination",
+    "raw": "vue-bootstrap-pagination",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-bootstrap-pagination/-/vue-bootstrap-pagination-1.0.1.tgz",
+  "_shasum": "d1dee748b97a0db16182205a99ac7c3ef1817465",
+  "_shrinkwrap": null,
+  "_spec": "vue-bootstrap-pagination",
+  "_where": "/Users/user/Desktop/laravel/cardsApp",
+  "author": {
+    "name": "pogachar"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "bootstrap": "^3.3.6",
+    "vue": "^1.0.16"
+  },
+  "description": "Pagination for vuejs with combination with bootstrap and Laravel's pagination",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^4.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "d1dee748b97a0db16182205a99ac7c3ef1817465",
+    "tarball": "http://registry.npmjs.org/vue-bootstrap-pagination/-/vue-bootstrap-pagination-1.0.1.tgz"
+  },
+  "gitHead": "d56f4690cff6de46e6820c5fe4e871d3deccb588",
+  "homepage": "https://github.com/Media24si/vue-pagination",
+  "installable": true,
+  "keywords": [
+    "bootstrap",
+    "component",
+    "laravel",
+    "pagination",
+    "vue"
+  ],
+  "license": "MIT",
+  "main": "dist/pagination.js",
+  "maintainers": [
+    {
+      "name": "pogachar",
+      "email": "pogacar.jernej@gmail.com"
+    }
+  ],
+  "name": "vue-bootstrap-pagination",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}

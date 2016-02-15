@@ -1,0 +1,18 @@
+@extends('layout')
+@section('content')
+<div >
+		<div class="row">
+		<div class="col-md-6 col-md-offset-3">
+			<h1>All Cards</h1>
+			@foreach($cards as $card)
+				<div>
+					<p><a href="{{$card->path()}}">{{$card->title}}</a></p>
+				</div>
+			@endforeach
+			{{$cards->links()}}
+		</div>
+		
+		</div>
+
+</div>
+@endsection
